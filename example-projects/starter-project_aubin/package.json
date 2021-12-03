@@ -1,0 +1,15 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "For Students of SHSWD who are just getting started",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aubin S (UTHD#9085)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
